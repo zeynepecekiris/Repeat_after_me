@@ -1,0 +1,76 @@
+body {
+    margin-top: 700px; /* Tüm içerikleri 100 piksel aşağıya indirir */
+}
+
+
+body {
+    margin: 0;
+    height: 100vh; /* Sayfanın tamamını kapsar */
+    display: flex;
+    justify-content: center; /* Yatayda ortalar */
+    align-items: center; /* Dikeyde ortalar */
+    background-color: #f0f0f0; /* Arka plan rengi, isteğe bağlı */
+}
+
+.h3icincss {
+    color: black; /* Metin rengi */
+    border: 5px solid blue; /* Mavi kenarlık */
+    padding: 25px; /* İç boşluk */
+    background-color: white; /* Arka plan rengi */
+    text-align: center; /* Metni ortala */
+}
+
+.h1icincss {
+    color: black; /* Metin rengi */
+    border: 5px solid red; /* Mavi kenarlık */
+    padding: 25px; /* İç boşluk */
+    background-color: purple; /* Arka plan rengi */
+    
+
+}
+
+
+.h2icincss {
+    color: black; /* Metin rengi */
+    border: 5px solid red; /* Mavi kenarlık */
+    padding: 25px; /* İç boşluk */
+    background-color: purple; /* Arka plan rengi */
+}
+
+.h3icincss {
+    color: black; /* Metin rengi */
+    border: 5px solid red; /* Mavi kenarlık */
+    padding: 25px; /* İç boşluk */
+    background-color: purple; /* Arka plan rengi */
+    text-align: center; /* Metni ortala */
+}
+
+.h4icincss {
+    color: black; /* Metin rengi */
+    border: 5px solid red; /* Mavi kenarlık */
+    padding: 25px; /* İç boşluk */
+    background-color: purple; /* Arka plan rengi */
+    text-align: center; /* Metni ortala */
+}
+
+.sliderContainer {
+    color: black; /* Metin rengi */
+    border: 5px solid red; /* Mavi kenarlık */
+    padding: 25px; /* İç boşluk */
+    background-color: purple; /* Arka plan rengi */
+    text-align: center; /* Metni ortala 
+
+}
+    body {
+    margin: 0;
+    height: 100vh; /* Sayfanın tamamını kaplar */
+}
+
+
+.top {
+    background-color: lightgreen;
+}
+
+.bottom {
+    background-color: lightpink;
+}
